@@ -1,6 +1,6 @@
 ### ACGIST
 
- 🔭 我的项目：[蜗牛](https://gitee.com/acgist/snail)
+ 🔭 我的项目：[蜗牛](https://gitee.com/acgist/snail)、[勾陈一](https://gitee.com/acgist/polaris)
 
  📫 邮箱地址：admin@acgist.com
 
