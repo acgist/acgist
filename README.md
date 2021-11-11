@@ -10,7 +10,7 @@
 
 📧 邮箱地址：rei@acgist.com
 
-🌏 我的主页：[ACGIST](https://www.acgist.com)
+🌏 我的主页：[https://www.acgist.com](https://www.acgist.com)
 🌏 Gitee：[https://gitee.com/acgist](https://gitee.com/acgist)
 🌏 GitHub：[https://github.com/acgist](https://github.com/acgist)
 
