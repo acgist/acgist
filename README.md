@@ -1,7 +1,7 @@
 ### ACGIST
 
 🔨 我的项目：
-[鼎](https://gitee.com/acgist/ding)
+[缪斯](https://gitee.com/acgist/muses)
 [蜗牛](https://gitee.com/acgist/snail)
 
 🕒 在线时间：06~20
