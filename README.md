@@ -10,14 +10,11 @@
 🔨 我的项目：
 [蜗牛](https://gitee.com/acgist/snail)
 [桃夭](https://gitee.com/acgist/taoyao)
-[李夫人](https://gitee.com/acgist/lifuren)
+[李夫人](https://gitee.com/acgist/lifuren)<br />
+🕒 在线时间：06~20<br />
+💗 兴趣爱好：发呆、国学、笛箫、运动、技术、财富<br />
+📧 邮箱地址：[mailto:rei@acgist.com](rei@acgist.com)
 
-🕒 在线时间：06~20
-
-💗 兴趣爱好：发呆、国学、笛箫、运动、技术、财富
-
-📧 邮箱地址：rei@acgist.com
-
-🌏 acgist:[https://www.acgist.com](https://www.acgist.com)     <br />
-🌏 Gitee: [https://gitee.com/acgist](https://gitee.com/acgist) <br />
+🌏 acgist:[https://www.acgist.com](https://www.acgist.com)<br />
+🌏 Gitee: [https://gitee.com/acgist](https://gitee.com/acgist)<br />
 🌏 GitHub:[https://github.com/acgist](https://github.com/acgist)
