@@ -9,7 +9,7 @@
 
 🔨 我的项目：[蜗牛](https://gitee.com/acgist/snail) [桃夭](https://gitee.com/acgist/taoyao)<br />
 🕒 在线时间：06~20<br />
-💗 兴趣爱好：笛子、国学、编程、财富、拳法剑法、视频拍摄<br />
+💗 兴趣爱好：笛子、国学、编程、财富、武术、摄像<br />
 📧 邮箱地址：[rei@acgist.com](mailto:rei@acgist.com)
 
 🌏 acgist:[https://www.acgist.com](https://www.acgist.com)<br />
